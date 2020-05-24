@@ -1,0 +1,42 @@
+// Overwrites for standard scss
+
+// Navigation bar
+.navbar {
+  font-size: #{$sta-font-size}px;   // make font size a bit bigger
+
+
+// Make none of the Navigation
+  .navbar-nav {
+    display: flex;
+
+    .nav-link {
+      color: rgba($sta-menu-text, .85);
+
+      &.active,
+      &:hover,
+      &:focus {
+        color: $sta-menu-text;
+      }
+
+      &.active {
+        font-weight: normal !important;
+        color: $sta-menu-text-active !important;
+      }
+    }
+  }
+}
+
+// Publication list specification: bold author in group
+.li-cite-author a {
+  font-weight: bold;
+}
+
+// Featured Publications: Bold author when in group
+.article-metadata a {
+  font-weight: bold;
+}
+
+// heading 1
+h1 {
+  color: #3f51b5;   //#13751a;
+}
