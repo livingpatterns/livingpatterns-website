@@ -43,12 +43,12 @@ title = "Living patterns lab"
   #  icon_pack = "fas"
   #  icon = "envelope"
 
-[cta]
-  url = "join-us/"
-  label = "Join us"
-  align = "right"
-  icon_pack = "fas"
-  icon = "flask"
+ # [cta]
+  # url = "join-us/"
+  # label = "Join us"
+  # align = "right"
+  # icon_pack = "fas"
+  # icon = "flask"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.

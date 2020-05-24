@@ -4,7 +4,7 @@ title: Guillermina R. Ramirez-San Juan
 
 # Username (this should match the folder name)
 authors:
-- admin
+- guille
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,13 +18,17 @@ organizations:
   url: "https://livingpatterns.group"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Short Bio
+bio: 
+
+show_interests: false
 
 interests:
 - Living Patterns
-- Patchy Mascotti
-- TV Baking Shows
+- Cooking
 - Cake
+
+projects:
+
 
 education:
   courses:
