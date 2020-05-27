@@ -5,7 +5,7 @@ title: "Cytoskeleton of ciliated protists"
 summary: "Ciliates are large (hundreds of microns long) unicellular organisms. The surface of these cells is covered by cilia, organized in rows, that form intricate cortical patterns. Cilia and their associated structures are anchored to a filamentous sub-cortical cytoskeleton known as the epiplasm. This layer has different architectures in the different ciliate groups.
 
 We are interested in understanding the mechanisms that 
-pattern this shell and the ciliary array it anchors. Furthermore, we are aim to elucidate the biophysical mechanisms that allow the ciliate cortex to support the remarkable behaviors seen in these organisms such as rapid swimming and extreme shape changes."
+pattern this shell and the ciliary array it anchors. Furthermore, we aim to elucidate the biophysical mechanisms that allow the ciliate cortex to support the remarkable behaviors seen in these organisms such as rapid swimming and extreme shape changes."
 authors: []
 tags: []
 categories: []

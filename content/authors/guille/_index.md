@@ -25,7 +25,7 @@ show_interests: false
 interests:
 - Living Patterns
 - Cooking
-- Cake
+- Running
 
 projects:
 
