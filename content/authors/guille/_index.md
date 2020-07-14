@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guillermina R. Ramirez-San Juan
+title: Guillermina R. Ramirez-San Juans
 
 # Username (this should match the folder name)
 authors:
