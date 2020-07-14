@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-show_interests: false
+<!-- show_interests: false -->
 
 interests:
 - Living Patterns
