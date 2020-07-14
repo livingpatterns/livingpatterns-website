@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Ph.D. student"
+title: "Graduate students"
 summary: "We are currently recruiting graduate students to join our group! 
 Interested students should [contact Guillermina](mailto:guillermina@brandeis.edu) about doing a rotation."
 authors: []
