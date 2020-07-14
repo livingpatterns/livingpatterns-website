@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "Members"
+  name = "People"
   url = "menu-group-members/"
   weight = 40
 
@@ -37,3 +37,8 @@
   name = "Contact"
   url = "contact/"
   weight = 100
+
+[[main]]
+  name = "<b>Join the lab!</b>"
+  url = "menu-join/"
+  weight = 110
