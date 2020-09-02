@@ -14,8 +14,8 @@ role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Brandeis University
-  url: "https://livingpatterns.group"
+#- name: Brandeis University
+#  url: "https://livingpatterns.group"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
