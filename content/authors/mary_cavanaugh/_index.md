@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: M.S. in Molecular and Cell Biology
+role: M.S. Student in Molecular and Cell Biology
 
 # Organizations/Affiliations
 organizations:
