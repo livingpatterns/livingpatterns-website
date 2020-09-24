@@ -142,9 +142,13 @@ You should see a new folder in `content/publication/`. Make sure you update the 
 
 More detailed instructions can be found [here](). In brief, navigate to the livingpatterns folder and type:
 
-    hugo new --kind authors authors/firstname-lastname
+    hugo new --kind authors authors/firstname_lastname
 
 This will add a folder in `contents/authors/`. Navigate to that folder and open the `_index.md` file and adjust it to contain the information on the new group member. The full biography can be added underneath the last `---`. Use standard markdown formatting. 
+
+For the image: Put an image of the new group member named `avatar.jpg` or `avatar.png` into the folder. Make sure to strip MetaData from the image (e.g., using <a href="https://exifcleaner.com/" target="_blank">ExifCleaner</a>) before uploading it! Also make sure the image is around 600 pixels wide. The circular shape is automatically produced by the website, all you need to do is ensure that the person's head is roughly in the center. Test the website locally to ensure things work.
+
+You can also check out existing group member's profiles to check on how the `_index.md` page has been filled out there. Finally, entries you do not want to use should be commented out with a `#` at the beginning of the line.
 
 ## Links
 
