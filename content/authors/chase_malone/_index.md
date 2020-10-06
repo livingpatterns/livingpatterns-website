@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Jacob Gendelman
+title: Chase Malone
 
 # Username (this should match the folder name)
 authors:
-- jacob_gendelman
+- chase_malone
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Assistant / Lab Manager
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -22,20 +22,21 @@ bio:
 
 interests:
 
+
 projects:
 
 
 education:
   courses:
-  - course: BA in Biology, cum laude
-    institution: Amherst College
-    year: 2020
+  - course: Biology and HSSP
+    institution: Brandeis University
+    year: Class of 2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
+#social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: "mailto:guillermina@brandeis.edu"  # For a direct email link, use "mailto:guillermina@brandeis.edu".
@@ -66,4 +67,10 @@ user_groups:
 - Researchers
 ---
 
-I studied Biology at Amherst College, and have done research in a variety of fields, including atomic physics, plant physiology, biochemistry, and evolutionary biology. For my senior thesis, I studied the mating system of a fungal wildflower pathogen, Microbotryum scorzonerae. I'm excited to work in the Living Patterns Lab because our work is all about tiny individual components coming together to form complex and beautiful phenomena! When I'm not in lab, I enjoy running, baking bread, gardening, and making art in various media.
+
+Currently, I plan to double major in Biology and HSSP. One of my many goals is 
+to gain more experience doing research. In high school, I did 4 years of 
+research locating the off-target locations for skin cell defense enzyme genes. 
+I am a part of the track team and an active member of Brandeis Black Student 
+Organization. A few pastimes of mine are running, traveling, meeting new people 
+and hanging out with friends!
