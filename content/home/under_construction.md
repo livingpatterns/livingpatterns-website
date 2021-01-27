@@ -25,11 +25,3 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-
-The website of the livingpatterns group is under construction here. Please 
-check back soon to see more content! We are excited!
-
-May 22, 2020
-
-{{% /alert %}}
