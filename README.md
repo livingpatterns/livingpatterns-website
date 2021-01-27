@@ -12,6 +12,8 @@ In order to test the website locally you need to have Hugo installed. Detailed i
 
 So check your package manager first. Brew is likely the easiest installation on OSX though. 
 
+Important: The website on Netlify is built with Hugo version 0.72.0. If you want the same results on your computer, ensure that the same version of Hugo is installed.
+
 ### Academic-admin
 
 The academic-admin tool is required if you want to update / recreate the bibliography automatically. Detailed installation instructions can be found [here](https://github.com/sourcethemes/academic-admin). The tool can be installed via pip. Make sure that your pip is for python >= 3.6 (usually available as `pip` or as `pip3`). You can check which pip version you have by running:
