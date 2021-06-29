@@ -14,11 +14,16 @@
   </div>
   {{ end }}
 
-  {{ with $page.Content }}
-  <div class="col-md-12">
-    {{ . }}
-  </div>
-  {{ end }}
+  <!-- Group photo - till the next comment -->
+
+    {{ with $page.Content }}
+    <div class="col-md-12">
+      {{ . }}
+    </div>
+    {{ end }}
+
+  <!-- End of group photo section -->
+
 
   {{ range $page.Params.content.user_groups }}
   {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
@@ -54,8 +59,9 @@
       {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
       {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
       <!-- {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }} -->
-    </div>
+    </div>  
   </div>
   {{ end }}
   {{ end }}
 </div>
+

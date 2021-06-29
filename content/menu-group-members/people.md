@@ -54,4 +54,12 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
 +++
+
+<!-- <h2>Group picture</h2> -->
+
+<p align="center">
+  <strong>June 2021</strong>
+  <img src="/img/group_imgs/2021_june_group_img.jpg">
+</p>
